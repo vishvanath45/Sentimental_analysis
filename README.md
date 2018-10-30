@@ -11,5 +11,6 @@ i.e :-
  this is a way of automatically tracking the mood or sentiment of the tweet and bot generating the memes to brighten up the day.
  in this file  there are four documents
  
- Examples - ![alt text](https://raw.githubusercontent.com/vishvanath45/Sentimental_analysis/master/Tweet_Senti_Analysis_2.png) 
-            ![alt text](https://raw.githubusercontent.com/vishvanath45/Sentimental_analysis/master/Tweet_Senti_analysis_1.png) 
+ Examples - 
+ ![alt text](https://raw.githubusercontent.com/vishvanath45/Sentimental_analysis/master/Tweet_Senti_Analysis_2.png) 
+ ![alt text](https://raw.githubusercontent.com/vishvanath45/Sentimental_analysis/master/Tweet_Senti_analysis_1.png) 
